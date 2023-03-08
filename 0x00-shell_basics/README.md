@@ -16,3 +16,7 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 14. 13-symbolic_link - creates a symbolic link to /bin/ls, named *__ls__*. The symbolic link will be created in the current working directory
 15. 14-copy_html - copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 
+**These scripts are part of the Advanced Tasks:**
+
+16. 100-lets_move - moves all files beginning with an uppercase letter to the directory */tmp/u
+
