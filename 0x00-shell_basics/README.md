@@ -4,4 +4,9 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 2. 1-listit - displays the contents list of the current directory
 3. 2-bring_me_home - changes the working directory to the user's home directory
 4. 3-listfiles - displays the current directory contents in long format
+5. 4-listmorefiles - displays the current directory contents, including hidden files (starting with .) in long format
+5. 4-listmorefiles - displays the current directory contents, including hidden files (starting with .) in long format
+5. 4-listmorefiles - displays the current directory contents, including hidden files (starting with .) in long format
+5. 4-listmorefiles - displays the current directory contents, including hidden files (starting with .) in long format
+5. 4-listmorefiles - displays the current directory contents, including hidden files (starting with .) in long format
 
