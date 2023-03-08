@@ -18,5 +18,6 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 
 **These scripts are part of the Advanced Tasks:**
 
-16. 100-lets_move - moves all files beginning with an uppercase letter to the directory */tmp/u
+16. 100-lets_move - moves all files beginning with an uppercase letter to the directory */tmp/u*
+17. 101-clean_emacs - deletes all the files in the current working directory that end with the character: ~
 
