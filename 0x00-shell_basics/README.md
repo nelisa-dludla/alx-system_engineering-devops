@@ -8,4 +8,5 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 6. 5-listfilesdigitsonly - displays the current directory contents numerically with user and group IDs, along with hidden files and in long format
 7. 6-firstdirectory - creates a directory named *my_first_directory* in the */tmp/* directory
 8. 7-movethatfile - moves the file named *betty* from */tmp/* to */tmp/my_first_directory*
+9. 8-firstdelete - deletes the file named *betty*
 
