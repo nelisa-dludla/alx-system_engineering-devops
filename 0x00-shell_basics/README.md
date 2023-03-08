@@ -11,4 +11,4 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 9. 8-firstdelete - deletes the file named *betty*
 10. 9-firstdirdeletion - deletes the directory named *my_first_directory*
 11. 10-back - changes the working directory to the previous one
-
+12. 11-lists - lists all files (even the hidden ones) in the current directory, the parent of the working directory and the */boot/* directory (in this order), in long format
