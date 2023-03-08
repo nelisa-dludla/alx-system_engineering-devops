@@ -10,4 +10,5 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 8. 7-movethatfile - moves the file named *betty* from */tmp/* to */tmp/my_first_directory*
 9. 8-firstdelete - deletes the file named *betty*
 10. 9-firstdirdeletion - deletes the directory named *my_first_directory*
+11. 10-back - changes the working directory to the previous one
 
