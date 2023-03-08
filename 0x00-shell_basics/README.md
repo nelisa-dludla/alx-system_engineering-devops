@@ -9,4 +9,5 @@ In this directory, you will find all the scripts I have created for my Shell Bas
 7. 6-firstdirectory - creates a directory named *my_first_directory* in the */tmp/* directory
 8. 7-movethatfile - moves the file named *betty* from */tmp/* to */tmp/my_first_directory*
 9. 8-firstdelete - deletes the file named *betty*
+10. 9-firstdirdeletion - deletes the directory named *my_first_directory*
 
