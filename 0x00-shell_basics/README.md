@@ -1,5 +1,5 @@
-In this directory, you find all the scripts I have created for my Shell Basics tasks
+In this directory, you will find all the scripts I have created for my Shell Basics tasks:
 
 1. 0-current_working_directory - prints the absolute path name of the current working directory
 2. 1-listit - displays the contents list of the current directory
-
+3. 2-bring_me_home - changes the working directory to the user's home directory
