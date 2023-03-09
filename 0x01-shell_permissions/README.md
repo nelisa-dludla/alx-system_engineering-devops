@@ -33,4 +33,8 @@
 13. 12-directory_permissions - creates a directory called *my_dir* with permissions 751 in the working directory
 
 14. 13-change_group - changes the group owner to *school* for the file *hello*
+
+**These scripts are part of the Advanced Tasks:**
+
+15. 100-change_owner_and_group - changes the owner to *vincent* and the group to *staff* for all the files and directories in the working directory
  
