@@ -1,4 +1,4 @@
-**In this directory, you will find all the scripts I have created for my Shell Permissions Tasks:** 
+###**In this directory, you will find all the scripts I have created for my Shell Permissions Tasks:** 
 
 1. 0-iam_betty - switches the current user to the user *betty*
 
@@ -34,7 +34,7 @@
 
 14. 13-change_group - changes the group owner to *school* for the file *hello*
 
-**These scripts are part of the Advanced Tasks:**
+####**These scripts are part of the Advanced Tasks:**
 
 15. 100-change_owner_and_group - changes the owner to *vincent* and the group to *staff* for all the files and directories in the working directory
 
