@@ -8,16 +8,16 @@ Each file contains a link to a whiteboard diagram of a specific web infrastructu
 
 - **File**: `0-simple_web_stack`
 
-![Simple Web Stack](https://photos.app.goo.gl/Ucz2z5dKpLbJqZkC9)
+![Simple Web Stack](./assets/Simple_Web_Stack.png)
 
 ### Task 1: Distributed web infrastructure
 
 - **File**: `1-distributed_web_infrastructure`
 
-![Distributed Web Infrastructure](https://photos.app.goo.gl/FFCN9mXs38vq9FJXA)
+![Distributed Web Infrastructure](./assets/Distributed_Web.png)
 
 ### Task 2: Secured and monitored web infrastructure
 
 - **File**: `2-secured_and_monitored_web_infrastructure`
 
-![Secured and Monitored Web Infrastructure](https://photos.app.goo.gl/H1Dx7ih9LNisckzy7)
+![Secured and Monitored Web Infrastructure](./assets/Secured_And_Monitored.png)
