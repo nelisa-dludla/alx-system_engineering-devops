@@ -5,7 +5,7 @@ package { 'python3':
 }
 
 package { 'python3-pip':
-  ensure   => 'present',
+  ensure   => installed,
 }
 
 package { 'flask':
