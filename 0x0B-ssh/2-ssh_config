@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # Allows access to a server without typing a password
 
 # This is the ssh client system-wide configuration file.  See
