@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script generates a MySQL dump and creates a compressed archive out of it
+#This script generates a MySQL dump and creates a compressed archive out of it
 
 if [ $# -ne 1 ]; then
 	exit 1
