@@ -6,7 +6,8 @@ if [ $# -ne 1 ]; then
 fi
 
 archive_name="$(date +'%d-%m-%Y').tar.gz"
+mysqldump_cmd="mysqldump -u root -p'$1' --all-databases > backup.sql"
 
-mysqldump -u root -p "$1" --all-databases > backup.sql
+eval $mysqldump_cmd
 
 tar -czvf $archive_name backup.sql
