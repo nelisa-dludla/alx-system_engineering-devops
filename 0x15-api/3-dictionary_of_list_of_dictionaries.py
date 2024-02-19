@@ -12,10 +12,10 @@ if __name__ == '__main__':
     filename = 'todo_all_employees.json'
 
     for id in range(1, 11):
-        todos_res = get(f'https://jsonplaceholder.typicode.com/todos?userId={id}')
+        t_res = get(f'https://jsonplaceholder.typicode.com/todos?userId={id}')
         employee_res = get(f'https://jsonplaceholder.typicode.com/users/{id}')
 
-        todos = todos_res.json()
+        todos = t_res.json()
         tasks_list = []
         employee_username = employee_res.json()['username']
 
