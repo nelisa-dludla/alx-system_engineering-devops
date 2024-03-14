@@ -1,0 +1,28 @@
+server {
+	listen 80 default_server;
+	listen [::]:80 default_server;
+
+	root /var/www/html;
+
+	index index.html index.nginx-debian.html;
+
+	server_name _;
+	add_header X-Served-By $hostname;
+
+	location / {
+		try_files  / =404;
+	}
+
+	location /airbnb-onepage {
+		proxy_pass http://localhost:5000;
+	}
+
+	location /airbnb-dynamic/number_odd_or_even  {
+		rewrite ^/airbnb-dynamic/number_odd_or_even/(\d+)$ /number_odd_or_even/$1 break;
+		proxy_pass http://localhost:5001;
+	}
+
+	location /api {
+		proxy_pass http://localhost:5002;
+	}
+}
